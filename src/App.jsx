@@ -103,7 +103,7 @@ function Hero() {
         </div>
         <div className="hero-art" aria-label="نماذج من الدروع والجوائز والهدايا المخصصة">
           <div className="hero-art__frame">
-            <img src="/manus-storage/async-images/wB4xYf9RVetM83tLU1d6AE/image-1.webp" alt="تكوين فاخر من دروع خشبية وجوائز كريستالية وهدايا مؤسسية" fetchPriority="high" />
+            <img src="/images/hero-awards.webp" alt="تكوين فاخر من دروع خشبية وجوائز كريستالية وهدايا مؤسسية" fetchPriority="high" />
             <div className="hero-art__label"><span>اختيار بعناية</span><strong>تفاصيل تصنع الفرق</strong></div>
           </div>
           <div className="hero-art__thumb"><img src="/images/wooden-plaque.jpg" alt="تفاصيل درع خشبي مخصص" /></div>
